@@ -1,0 +1,35 @@
+.S1{
+    width: 80vw;
+    padding: 10px 10px;
+    margin: 15px auto;
+}
+.S1>h2{
+    color:#02265E;
+}
+#S2{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.instruContain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Finstrument{
+    width: 40vw;
+    height: 60vh;
+    margin: 50px 20px;
+    background-color: rgb(173, 207, 174);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* Precautions Page */
+.prePic{
+    background: url('../img/img.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
